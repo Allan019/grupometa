@@ -1,0 +1,4 @@
+[10-Feb-2015 07:17:34 Brazil/East] PHP Fatal error:  Call to undefined function get_header() in /home/groowlco/public_html/grupometa/wp-content/themes/grupometa/index.php on line 1
+[17-Feb-2015 07:05:08 Brazil/East] PHP Fatal error:  Call to undefined function get_header() in /home/groowlco/public_html/grupometa/wp-content/themes/grupometa/index.php on line 1
+[11-Mar-2015 15:49:59 Brazil/East] PHP Fatal error:  Call to undefined function get_header() in /home/groowlco/public_html/grupometa/wp-content/themes/grupometa/index.php on line 1
+[12-Mar-2015 15:03:08 Brazil/East] PHP Fatal error:  Call to undefined function get_header() in /home/groowlco/public_html/grupometa/wp-content/themes/grupometa/index.php on line 1
